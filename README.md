@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h2 align="center">A passionate back-end developer from Vietnam</h2>
-
 [![Intro](https://github.com/William1199/William1199/blob/main/Intro.gif)](https://www.facebook.com/hiubexius/)
 
 - 🔭 I’m currently working on [Facilities' Feedback Management for FPTU Project](http://neveslos.xyz/SWP391_PROJECT/)
 
-- 🌱 I’m currently learning **Java Web, HTML5, Css, Spring Framework**
+- 🌱 I’m currently learning **Java Web, HTML5, CSS3, Spring Framework**
 
-- 💬 Ask me about **Java, HTML, CSS**
+- 💬 Ask me about **Java, HTML5, CSS3**
 
 - 📫 How to reach me **hieutran1736@gmail.com**
 
@@ -23,6 +22,9 @@
 </a>
 <a href="https://www.linkedin.com/in/hiubexius/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hiubexius/" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/17559553/william" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17559553/william" height="30" width="40" />
 </a>
 </p>
 
@@ -58,7 +60,11 @@
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
+  <a href="https://firebase.google.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+</a> 
     </br> 
+    
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a>
@@ -92,8 +98,8 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William1199)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=William1199&theme=merko&show_icons=true&locale=en&layout=compact" alt="William1199" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=William1199&show_icons=true&locale=en&layout=compact" alt="ndungx" />
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=William1199&theme=merko)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=William1199)  
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
