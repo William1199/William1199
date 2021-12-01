@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-## <div align="center"> A passionate back-end developer from Vietnam > </div>
+<h2 align="center">A passionate back-end developer from Vietnam</h2>
 
 [![Intro](https://github.com/William1199/William1199/blob/main/Intro.gif)](https://www.facebook.com/hiubexius/)
 
 - 🔭 I’m currently working on [Facilities' Feedback Management for FPTU Project](http://neveslos.xyz/SWP391_PROJECT/)
 
-- 🌱 I’m currently learning **Java Web, HTML5, CSS, Spring Framework**
+- 🌱 I’m currently learning **Java Web, HTML5, Css, Spring Framework**
 
 - 💬 Ask me about **Java, HTML, CSS**
 a
@@ -89,3 +89,9 @@ a
   </a>
 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William1199)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/William1199)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=William1199)  
