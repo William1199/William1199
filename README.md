@@ -103,6 +103,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=William1199&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="William1199" />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=William1199&theme=blue-reen)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=William1199&theme=blue-green)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
