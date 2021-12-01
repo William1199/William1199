@@ -8,8 +8,10 @@
 - 🌱 I’m currently learning **Java Web, HTML5, Css, Spring Framework**
 
 - 💬 Ask me about **Java, HTML, CSS**
-a
+
 - 📫 How to reach me **hieutran1736@gmail.com**
+
+![Profile views](https://gpvc.arturio.dev/William1199)
 
 <h3 align="left">Connect me via:</h3>
 <p align="left">
@@ -92,6 +94,6 @@ a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William1199)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/William1199)  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=William1199&show_icons=true&locale=en&layout=compact" alt="ndungx" />
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=William1199)  
