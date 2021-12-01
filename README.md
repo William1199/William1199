@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">A passionate back-end developer from Vietnam</h3>
+<h2 align="center">A passionate back-end developer from Vietnam</h2>
 
 [![Intro](https://github.com/William1199/William1199/blob/main/Intro.gif)](https://www.facebook.com/hiubexius/)
 
 - 🔭 I’m currently working on [Facilities' Feedback Management for FPTU Project](http://neveslos.xyz/SWP391_PROJECT/)
 
-- 🌱 I’m currently learning **Java Web, HTML5, Css, Spring Framework*
+- 🌱 I’m currently learning **Java Web, HTML5, Css, Spring Framework**
 
 - 💬 Ask me about **Java, HTML, CSS**
 a
