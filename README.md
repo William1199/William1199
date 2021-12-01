@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Facilities' Feedback Management for FPTU Project](http://neveslos.xyz/SWP391_PROJECT/)
 
-- 🌱 I’m currently learning **Java Web, HTML5, Css, Spring Framework**
+- 🌱 I’m currently learning **Java Web, HTML5, CSS, Spring Framework**
 
 - 💬 Ask me about **Java, HTML, CSS**
 a
