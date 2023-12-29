@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Facilities' Feedback Management for FPTU Project](http://neveslos.xyz/SWP391_PROJECT/)
 
-- 🌱 I’m currently learning **JavaScript, Python, Java, C#**
+- 🌱 I’m currently learning **JavaScript, Python, Java, C#, React**
 
 - 💬 Ask me about **JavaScript, Python, Java, C#**
 
