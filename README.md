@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **hieutran1736@gmail.com**
 
-![Profile views](https://gpvc.arturio.dev/William1199)
-
 <h3 align="left">Connect me via:</h3>
 <p align="left">
 <a href="https://www.facebook.com/hiubexius/" target="_blank">
